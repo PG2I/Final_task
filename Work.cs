@@ -1,4 +1,5 @@
-﻿class Program
+﻿
+class Program
 {
     static void Main()
     {
@@ -7,7 +8,7 @@
 
     static void Mass()
     {
-        Console.Write("Введите количество строк в массиве : ");
+        Console.Write("Введите количество строк в массиве: ");
         int n = int.Parse(Console.ReadLine()!);
 
         string[] words = new string[n];
@@ -18,7 +19,7 @@
             words[i] = Console.ReadLine()!;
         }
 
-        Console.WriteLine("\nИсходный массив строк :");
+        Console.WriteLine("\nИсходный массив строк:");
         foreach (string word in words)
         {
             Console.WriteLine(word);
@@ -26,7 +27,7 @@
 
         string[] filteredWords = FilterWords(words);
 
-        Console.WriteLine("\nМассив коротких строк (длина <= 3 символов) :");
+        Console.WriteLine("\nМассив коротких строк (длина <= 3 символов):");
         foreach (string word in filteredWords)
         {
             Console.WriteLine(word);
