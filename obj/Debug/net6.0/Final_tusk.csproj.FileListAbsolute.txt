@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Обучение Geekbreins\Final_tusk\bin\Debug\net6.0\Final_tusk.exe
+C:\Users\admin\Desktop\Обучение Geekbreins\Final_tusk\bin\Debug\net6.0\Final_tusk.deps.json
+C:\Users\admin\Desktop\Обучение Geekbreins\Final_tusk\bin\Debug\net6.0\Final_tusk.runtimeconfig.json
+C:\Users\admin\Desktop\Обучение Geekbreins\Final_tusk\bin\Debug\net6.0\Final_tusk.dll
+C:\Users\admin\Desktop\Обучение Geekbreins\Final_tusk\bin\Debug\net6.0\Final_tusk.pdb
+C:\Users\admin\Desktop\Обучение Geekbreins\Final_tusk\obj\Debug\net6.0\Final_tusk.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Обучение Geekbreins\Final_tusk\obj\Debug\net6.0\Final_tusk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Обучение Geekbreins\Final_tusk\obj\Debug\net6.0\Final_tusk.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Обучение Geekbreins\Final_tusk\obj\Debug\net6.0\Final_tusk.AssemblyInfo.cs
+C:\Users\admin\Desktop\Обучение Geekbreins\Final_tusk\obj\Debug\net6.0\Final_tusk.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Обучение Geekbreins\Final_tusk\obj\Debug\net6.0\Final_tusk.dll
+C:\Users\admin\Desktop\Обучение Geekbreins\Final_tusk\obj\Debug\net6.0\refint\Final_tusk.dll
+C:\Users\admin\Desktop\Обучение Geekbreins\Final_tusk\obj\Debug\net6.0\Final_tusk.pdb
+C:\Users\admin\Desktop\Обучение Geekbreins\Final_tusk\obj\Debug\net6.0\Final_tusk.genruntimeconfig.cache
+C:\Users\admin\Desktop\Обучение Geekbreins\Final_tusk\obj\Debug\net6.0\ref\Final_tusk.dll
